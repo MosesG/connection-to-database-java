@@ -10,7 +10,7 @@ public class MainExecutable {
 	static MyConnector myconnector;
 	
 	static final String Username = "root";//variable to use in place of the user name.
-	static final String PWD = "mozzay";//variable for use in place of the password.
+	static final String PWD = "";//variable for use in place of the password.
 	
 	static Connection conn = null;
 	static Statement stmt = null;
